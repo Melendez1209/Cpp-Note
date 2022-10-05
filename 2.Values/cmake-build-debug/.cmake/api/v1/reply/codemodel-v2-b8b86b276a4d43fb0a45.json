@@ -1,0 +1,64 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.23"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "2_Values",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "2_Values::@6890427a1f51a3e7e1df",
+<<<<<<<< HEAD:2.Values/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b8b86b276a4d43fb0a45.json
+					"jsonFile" : "target-2_Values-Debug-daf493bf0579c297c0eb.json",
+========
+					"jsonFile" : "target-2_Values-Debug-2245b5594cdc186f5836.json",
+>>>>>>>> 88c2f5d7368607180032cec6077713023294fe58:2.Values/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-b4f88e3cbdeeed0e0f02.json
+					"name" : "2_Values",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Codes/C++/2.Values/cmake-build-debug",
+		"source" : "D:/Codes/C++/2.Values"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

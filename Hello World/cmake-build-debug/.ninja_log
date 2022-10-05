@@ -1,0 +1,5 @@
+# ninja log v5
+0	348	6850955200249976	CMakeFiles/Hello_World.dir/main.cpp.obj	6d7dc6663de8425f
+350	444	6850955201187298	Hello_World.exe	8082dfda10077147
+2	326	6850955442061895	CMakeFiles/Hello_World.dir/main.cpp.obj	6d7dc6663de8425f
+326	405	6850955442821889	Hello_World.exe	8082dfda10077147

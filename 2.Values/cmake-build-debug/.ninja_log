@@ -1,0 +1,38 @@
+# ninja log v5
+<<<<<<< HEAD
+2	295	6865533289440727	CMakeFiles/2_Values.dir/main.cpp.obj	ef9d54e64c669363
+2	331	6857966525458984	CMakeFiles/2_Values.dir/_3Float.cpp.obj	422e3565a8c19239
+7	579	6865527555269028	CMakeFiles/2_Values.dir/_4Character.cpp.obj	17f0ccdbb6f1dbf9
+291	361	6865535398754139	2_Values.exe	28f5573c6734e02c
+2	289	6857858159559884	CMakeFiles/2_Values.dir/_Manage_Data_Types.cpp.obj	2fcc35f1478995b9
+0	119	6865537150056812	build.ninja	2235da163e63ff81
+2	287	6857876403865435	CMakeFiles/2_Values.dir/_1Add_Values.cpp.obj	29c3bd25a26270f3
+2	470	6857923502873811	CMakeFiles/2_Values.dir/_2Int.cpp.obj	8fb4cb74c7fcddfd
+2	347	6865529144748511	CMakeFiles/2_Values.dir/_5String.cpp.obj	17ef1dc56a3e87fa
+2	291	6865535398086119	CMakeFiles/2_Values.dir/_6Bool.cpp.obj	cd3f10c54eea437c
+5	436	6865537489909542	CMakeFiles/2_Values.dir/main.cpp.obj	ef9d54e64c669363
+11	450	6865537490051445	CMakeFiles/2_Values.dir/_7Input.cpp.obj	949f0b4a8efbd5cc
+15	459	6865537490145663	CMakeFiles/2_Values.dir/_6Bool.cpp.obj	cd3f10c54eea437c
+459	529	6865537490804136	2_Values.exe	2356c54fdfe9b568
+3	336	6865539822724775	CMakeFiles/2_Values.dir/_7Input.cpp.obj	949f0b4a8efbd5cc
+336	415	6865539823469798	2_Values.exe	2356c54fdfe9b568
+2	302	6865539990789814	CMakeFiles/2_Values.dir/_7Input.cpp.obj	949f0b4a8efbd5cc
+303	375	6865539991478445	2_Values.exe	2356c54fdfe9b568
+5	306	6865540151071118	CMakeFiles/2_Values.dir/_7Input.cpp.obj	949f0b4a8efbd5cc
+306	378	6865540151759190	2_Values.exe	2356c54fdfe9b568
+=======
+2	417	6865528385977856	CMakeFiles/2_Values.dir/main.cpp.obj	ef9d54e64c669363
+2	331	6857966525458984	CMakeFiles/2_Values.dir/_3Float.cpp.obj	422e3565a8c19239
+7	579	6865527555269028	CMakeFiles/2_Values.dir/_4Character.cpp.obj	17f0ccdbb6f1dbf9
+348	419	6865529145436867	2_Values.exe	ca9423c52fa584d0
+2	289	6857858159559884	CMakeFiles/2_Values.dir/_Manage_Data_Types.cpp.obj	2fcc35f1478995b9
+0	119	6865530379760822	build.ninja	2235da163e63ff81
+2	287	6857876403865435	CMakeFiles/2_Values.dir/_1Add_Values.cpp.obj	29c3bd25a26270f3
+2	470	6857923502873811	CMakeFiles/2_Values.dir/_2Int.cpp.obj	8fb4cb74c7fcddfd
+2	347	6865529144748511	CMakeFiles/2_Values.dir/_5String.cpp.obj	17ef1dc56a3e87fa
+2	322	6865533088283844	CMakeFiles/2_Values.dir/main.cpp.obj	ef9d54e64c669363
+7	334	6865533088283844	CMakeFiles/2_Values.dir/_6Bool.cpp.obj	cd3f10c54eea437c
+334	406	6865533089082957	2_Values.exe	28f5573c6734e02c
+2	295	6865533289440727	CMakeFiles/2_Values.dir/main.cpp.obj	ef9d54e64c669363
+295	366	6865533290120355	2_Values.exe	28f5573c6734e02c
+>>>>>>> 88c2f5d7368607180032cec6077713023294fe58

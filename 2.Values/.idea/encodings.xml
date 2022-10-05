@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/_1Add_Values.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_2Int.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_3Float.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_5String.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_6Bool.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_7Input.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/_Manage_Data_Types.cpp" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/main.cpp" charset="GBK" />
+  </component>
+</project>
