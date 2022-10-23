@@ -1,7 +1,7 @@
 #include <iostream>
 
 /***
- * gotoè¯­å¥ä¹Ÿç§°bugè¯­å¥ï¼Œä¼šä½¿ä»£ç å¯è¯»æ€§å¤§å¹…ä¸‹é™ï¼Œå¤šç”¨å¾ªçŽ¯ï¼Œå°‘ç”¨goto
+ * gotoÓï¾äÒ²³ÆbugÓï¾ä£¬»áÊ¹´úÂë¿É¶ÁÐÔ´ó·ùÏÂ½µ£¬¶àÓÃÑ­»·£¬ÉÙÓÃgoto
  */
 int main() {
     std::cout << 1 << std::endl;
@@ -10,7 +10,7 @@ int main() {
     std::cout << 3 << std::endl;
     std::cout << 4 << std::endl;
     FLAG:
-    std::cout << "è¿™æ˜¯è·³è½¬è‡³åŽçš„ä»£ç " << std::endl;
+    std::cout << "ÕâÊÇÌø×ªÖÁºóµÄ´úÂë" << std::endl;
 
     return 0;
 }

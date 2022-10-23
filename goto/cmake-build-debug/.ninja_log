@@ -1,3 +1,5 @@
 # ninja log v5
 0	458	6882146265108848	CMakeFiles/goto.dir/main.cpp.obj	70e24795f5d190a3
 459	552	6882146266029236	goto.exe	dbe2d1efbddce178
+2	359	6882148164765271	CMakeFiles/goto.dir/main.cpp.obj	70e24795f5d190a3
+359	459	6882148165731853	goto.exe	dbe2d1efbddce178
