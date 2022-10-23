@@ -1,4 +1,7 @@
-C:\Users\Melendez\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.4884.72\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Melendez/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.4884.72/bin/ninja/win/ninja.exe -G Ninja -S D:\Codes\C++\2.Values -B D:\Codes\C++\2.Values\cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: D:/Codes/C++/2.Values/cmake-build-debug
+C:\Users\Melendez\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\223.6646.99\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Melendez/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/223.6646.99/bin/ninja/win/ninja.exe -G Ninja -S D:\Codes\C++\2.Values -B D:\Codes\C++\2.Values\cmake-build-debug
+CMake Error at CMakeLists.txt:6:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "<<<<<<<".
+
+
+-- Configuring incomplete, errors occurred!

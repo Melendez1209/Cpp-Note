@@ -1,3 +1,0 @@
-D:/Codes/C++/3.Operator/cmake-build-debug/CMakeFiles/3_Operator.dir
-D:/Codes/C++/3.Operator/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Codes/C++/3.Operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
